@@ -9,3 +9,4 @@ pinecone-client
 pinecone-client[grpc]
 langchain-pinecone
 flask
+-e .
