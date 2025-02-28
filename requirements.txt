@@ -1,5 +1,5 @@
 langchain
-langhchain-community
+langchain-community
 langchain-groq
 langchain-google-genai
 langchain-experimental
@@ -9,4 +9,3 @@ pinecone-client
 pinecone-client[grpc]
 langchain-pinecone
 flask
--e .
