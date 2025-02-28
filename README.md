@@ -68,11 +68,11 @@ git push origin main
 
 If it asks for the login into `github` then login with passkey and provide the `PAT`
 
-### STEP 06: Create a `.env` file in the root directory and add your Pinecone & openai credentials as follows:
+### STEP 06: Create a `.env` file in the root directory and add your Pinecone,Google & Groq credentials as follows:
 
 ```ini
 PINECONE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-OPENAI_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+GROQ_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 GOOGLE_API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
