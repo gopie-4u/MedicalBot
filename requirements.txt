@@ -1,0 +1,12 @@
+langchain
+langhchain-community
+langchain-groq
+langchain-google-genai
+langchain-experimental
+pypdf
+python-dotenv
+pinecone-client
+pinecone-client[grpc]
+langchain-pinecone
+flask
+-e .
