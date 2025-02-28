@@ -159,6 +159,8 @@ open up localhost:
 	sudo usermod -aG docker ubuntu
 
 	newgrp docker
+
+	docker --version
 	
 # 6. Configure EC2 as self-hosted runner:
     setting>actions>runner>new self hosted runner> choose os> then run command one by one
